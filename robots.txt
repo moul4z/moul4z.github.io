@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moul4z.github.io/sitemap.xml
