@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /index.txt
+Disallow: /en/index.txt
+Disallow: /daniel-moulaz-curriculo.pdf
+Disallow: /daniel-moulaz-resume.pdf
 
 Sitemap: https://moulaz.dev/sitemap.xml
